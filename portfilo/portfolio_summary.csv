@@ -1,0 +1,3 @@
+timestamp,ticker,shares,buy_price,current_price,invested_value,market_value,gain_loss,gain_loss_percent
+2026-10-20T18:39:07+05:30,TCS,10,3500.00,3800.00,35000.00,38000.00,3000.00,8.57
+2026-10-20T18:39:07+05:30,PORTFOLIO TOTAL,,,,35000.00,38000.00,3000.00,8.57
